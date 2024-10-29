@@ -12,9 +12,7 @@
      
 - ##### **Installation Instructions**:
     
-    - **Step 1 : Clone Repository** :
-	    
-     ```git clone [https://github.com/AbdelrahmanElKhateeb/RDF-Generation]```
+    - **Step 1 : Clone Repository** : ```git clone https://github.com/AbdelrahmanElKhateeb/RDF-Generation```
   
 
     - **Step 2 : Navigate to the project directory** :
