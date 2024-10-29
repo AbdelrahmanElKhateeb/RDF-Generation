@@ -39,7 +39,13 @@
 	- I recognized there is a number of areas where this script can be improved (read the usage) and optimized, feel free to improve and use the script as you like and find it necessary for your work or personal use.
 	
 - ##### **License**:
-	- **Attribution 4.0 International (CC BY 4.0)** license allows others to use, modify, and distribute the script, as long as they give appropriate credit.
+	- The **GNU Affero General Public License version 3 (AGPL-3.0)** is a free software license that extends the principles of the GPL-3.0 to software that is used over a network**. Key features include:
+
+    - Freedom to Use: Users can run the software for any purpose.
+    - Freedom to Modify: Users can alter the software to fit their needs.
+    - Freedom to Distribute: Users can share the original software and their modifications.
+    - Network Use: If you modify the software and use it on a server, you must make the source code available to users interacting with it over the network.
+    - Copyleft: Any distributed modifications or derived works must be licensed under AGPL-3.0, ensuring the same freedoms are maintained.
 	
 - ##### **Requirements**:
 	- only **Watchdog** library, the rest are included in the python library.
