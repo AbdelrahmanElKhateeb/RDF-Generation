@@ -1,0 +1,106 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<rdf:Description rdf:about="#item_2">
+		<z:itemType>document</z:itemType>
+		<link:link rdf:resource="#item_3"/>
+		<dc:subject>C:</dc:subject>
+		<dc:subject>Users</dc:subject>
+		<dc:subject>TOSHIBA</dc:subject>
+		<dc:subject>Desktop</dc:subject>
+		<dc:subject>Archiving</dc:subject>
+		<dc:subject>New folder</dc:subject>
+		<dc:subject>New</dc:subject>
+		<dc:subject>folder</dc:subject>
+		<dc:title>Hello +dfds</dc:title>
+	</rdf:Description>
+	<z:Attachment rdf:about="#item_3">
+		<z:itemType>document</z:itemType>
+		<rdf:resource rdf:resource="C:\Users\TOSHIBA\Desktop\Archiving\New folder\Hello +dfds.xlsx"/>
+		<dc:title>Hello +dfds</dc:title>
+		<z:linkMode>2</z:linkMode>
+		<link:type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</link:type>
+	</z:Attachment>
+	<rdf:Description rdf:about="#item_4">
+		<z:itemType>document</z:itemType>
+		<link:link rdf:resource="#item_5"/>
+		<dc:subject>C:</dc:subject>
+		<dc:subject>Users</dc:subject>
+		<dc:subject>TOSHIBA</dc:subject>
+		<dc:subject>Desktop</dc:subject>
+		<dc:subject>Archiving</dc:subject>
+		<dc:subject>New folder</dc:subject>
+		<dc:subject>New</dc:subject>
+		<dc:subject>folder</dc:subject>
+		<dc:title>PDFfile</dc:title>
+	</rdf:Description>
+	<z:Attachment rdf:about="#item_5">
+		<z:itemType>document</z:itemType>
+		<rdf:resource rdf:resource="C:\Users\TOSHIBA\Desktop\Archiving\New folder\PDFfile.pdf"/>
+		<dc:title>PDFfile</dc:title>
+		<z:linkMode>2</z:linkMode>
+		<link:type>application/pdf</link:type>
+	</z:Attachment>
+	<rdf:Description rdf:about="#item_6">
+		<z:itemType>document</z:itemType>
+		<link:link rdf:resource="#item_7"/>
+		<dc:subject>C:</dc:subject>
+		<dc:subject>Users</dc:subject>
+		<dc:subject>TOSHIBA</dc:subject>
+		<dc:subject>Desktop</dc:subject>
+		<dc:subject>Archiving</dc:subject>
+		<dc:subject>New folder</dc:subject>
+		<dc:subject>New</dc:subject>
+		<dc:subject>folder</dc:subject>
+		<dc:title>TestFile</dc:title>
+	</rdf:Description>
+	<z:Attachment rdf:about="#item_7">
+		<z:itemType>document</z:itemType>
+		<rdf:resource rdf:resource="C:\Users\TOSHIBA\Desktop\Archiving\New folder\TestFile.xlsx"/>
+		<dc:title>TestFile</dc:title>
+		<z:linkMode>2</z:linkMode>
+		<link:type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</link:type>
+	</z:Attachment>
+	<rdf:Description rdf:about="#item_8">
+		<z:itemType>document</z:itemType>
+		<link:link rdf:resource="#item_9"/>
+		<dc:subject>C:</dc:subject>
+		<dc:subject>Users</dc:subject>
+		<dc:subject>TOSHIBA</dc:subject>
+		<dc:subject>Desktop</dc:subject>
+		<dc:subject>Archiving</dc:subject>
+		<dc:subject>New folder</dc:subject>
+		<dc:subject>New</dc:subject>
+		<dc:subject>folder</dc:subject>
+		<dc:title>Untitled-1</dc:title>
+	</rdf:Description>
+	<z:Attachment rdf:about="#item_9">
+		<z:itemType>document</z:itemType>
+		<rdf:resource rdf:resource="C:\Users\TOSHIBA\Desktop\Archiving\New folder\Untitled-1.png"/>
+		<dc:title>Untitled-1</dc:title>
+		<z:linkMode>2</z:linkMode>
+		<link:type>image/png</link:type>
+	</z:Attachment>
+	<rdf:Description rdf:about="#item_10">
+		<z:itemType>document</z:itemType>
+		<link:link rdf:resource="#item_11"/>
+		<dc:subject>C:</dc:subject>
+		<dc:subject>Users</dc:subject>
+		<dc:subject>TOSHIBA</dc:subject>
+		<dc:subject>Desktop</dc:subject>
+		<dc:subject>Archiving</dc:subject>
+		<dc:subject>New folder</dc:subject>
+		<dc:subject>New</dc:subject>
+		<dc:subject>folder</dc:subject>
+		<dc:title>Wordfile</dc:title>
+	</rdf:Description>
+	<z:Attachment rdf:about="#item_11">
+		<z:itemType>document</z:itemType>
+		<rdf:resource rdf:resource="C:\Users\TOSHIBA\Desktop\Archiving\New folder\Wordfile.docx"/>
+		<dc:title>Wordfile</dc:title>
+		<z:linkMode>2</z:linkMode>
+		<link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+	</z:Attachment>
+</rdf:RDF>
