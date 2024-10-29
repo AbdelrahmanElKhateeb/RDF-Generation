@@ -1,4 +1,4 @@
-### Project Title : **RDF Generation Script**
+### Project Title : **RDF Zotero Generation Script**
 
 - ##### **Description**:
 
@@ -13,18 +13,20 @@
 - ##### **Installation Instructions**:
     
     - **Step 1 : Clone Repository** :
-	    git clone https://github.com/yourusername/random-content-generator.git
-	
+	    
+     ```git clone [https://github.com/AbdelrahmanElKhateeb/RDF-Generation]```
+  
+
     - **Step 2 : Navigate to the project directory** :
-	    cd random-content-generator
+	    ```cd RDF-Generation```
 	
     - **Step 3 : Install the required dependencies**:
-	    pip install -r requirements.txt
+	    ```pip install -r requirements.txt```
 
 - ##### **Usage**:
 
      After installing the libraries in the requirements.txt, and navigating to the source file using the cmd. Run the command 
-	     Python GenerateRDF.py
+	     ```Python GenerateRDF.py```
      A file explorer window will open and prompt you to choose a folder. All files including any sub-files within the folder or sub-folders of the folder that you will choose will all automatically be included in the RDF file. Wait till the cmd prints done. then import the rdf file into zotero choosing Zotero RDF file type to import. [The file will be generated in the same directory as the script file.]
      - The generation script uses the name of the file as the name of the entry in Zotero and the name of the attached file.
      - If you want to specify a specific file path instead of using the file explorer, insert the file path into the op_folder variable, and comment the File Selector Block in the Main Method.
